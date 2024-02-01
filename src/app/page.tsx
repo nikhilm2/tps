@@ -92,8 +92,11 @@ export default function Home() {
           </div>
       
       </main>  
+      <footer className="mt-20 ">
+          Nikhil Murmu™
+    </footer>
     </div>
-  
+
   );
 }
 
